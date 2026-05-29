@@ -21,6 +21,24 @@ The main objective of this project is to leverage machine learning techniques to
 
 ---
 
+# My Contribution
+
+Although this project was submitted as part of a team assignment, I independently designed and implemented the complete machine learning pipeline, including:
+
+* Data preprocessing and cleaning
+* Feature engineering
+* Exploratory Data Analysis (EDA)
+* Regression and classification models
+* Hyperparameter tuning
+* Model evaluation and visualization
+* Leakage prevention pipeline
+* Inference pipeline for unseen data
+* README documentation and project structuring
+
+The project was developed using Python, Scikit-learn, Pandas, and modern machine learning workflows.
+
+---
+
 # Dataset
 
 The project uses the **Open University Learning Analytics Dataset (OULAD)**, a large educational dataset containing anonymized student information, assessments, registration data, and VLE interaction records.
